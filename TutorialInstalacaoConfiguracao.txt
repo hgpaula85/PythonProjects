@@ -1,0 +1,18 @@
+Tutorial Python
+Instalação e configuração
+
+*** Programas necessários ****************************************************
+	Python
+	PyCharm
+	PIP
+	Selenium
+	ConEmu (Opcional)
+	GIT (Opcional)
+
+*** Adicionar os diretórios do Python nas variáveis de ambiente **************
+	Adicione ;%PYTHONPATH% ao fim da variável PATH
+	Crie a nova variável PYTHONPATH
+	Adicione a essa nova variável os caminhos seguindo o exemplo abaixo:
+		Diretório instalação principal: C:\Program Files (x86)\Python35-32
+		Lib: C:\Program Files (x86)\Python35-32\Lib
+		Scripts: C:\Program Files (x86)\Python35-32\Scripts
