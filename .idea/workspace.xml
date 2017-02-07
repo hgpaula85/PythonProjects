@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb733d2-2e38-496a-a5e1-d99105f9e40f" name="Default" comment="Testing commit after finishing section 8">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_Methods.py" afterPath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L25_DictionaryMethods.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_nested.py" afterPath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L24_DictionaryNested.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/lists_Methods.py" afterPath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L22_ListsMethods.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/listsdemo.py" afterPath="$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L21_ListsDemo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonProjects.iws" />
@@ -21,18 +25,7 @@
     <favorites_list name="PythonProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="S08L47_ClassExercise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L47_ClassExercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,16 +62,29 @@
         <option value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L45_Inheritance.py" />
         <option value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L46_Overriding.py" />
         <option value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L47_ClassExercise.py" />
+        <option value="$PROJECT_DIR$/Section09_ExceptionHandling/S09L48_ExceptionHandling.py" />
+        <option value="$PROJECT_DIR$/Section09_ExceptionHandling/S09L49_FinallyElse.py" />
+        <option value="$PROJECT_DIR$/Section09_ExceptionHandling/S09L50_ExceptionExercise.py" />
+        <option value="$PROJECT_DIR$/Section10_Modules/S10L51_BuiltinModules.py" />
+        <option value="$PROJECT_DIR$/Section10_Modules/S10L52_Car.py" />
+        <option value="$PROJECT_DIR$/modulesexternal/car.py" />
+        <option value="$PROJECT_DIR$/Section10_Modules/S10L52_CreateOwnModules.py" />
+        <option value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L53_WriteDatatoFile.py" />
+        <option value="$PROJECT_DIR$/Section11_WorkingWithFiles/secondfile.txt" />
+        <option value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L54_ReadFile.py" />
+        <option value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L55_UsingWithAs.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
+    <option name="x" value="83" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="width" value="1291" />
+    <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -117,93 +123,97 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HPAULA\OneDrive\Util\PythonProjects\Section09_ExceptionHandling" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HPAULA\OneDrive\Util\PythonProjects" />
       <recent name="C:\Users\HPAULA\OneDrive\Util\PythonProjects\Section04_Lists-Dictionary-Tuple" />
       <recent name="C:\Users\HPAULA\OneDrive\Util\PythonProjects\Section4_Lists-Dictionary-Tuple" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.S08L47_ClassExercise">
-    <configuration default="false" name="S08L43_CreateOwnObject" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.S11L55_UsingWithAs">
+    <configuration default="false" name="S10L51_BuiltinModules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section10_Modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L43_CreateOwnObject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section10_Modules/S10L51_BuiltinModules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="S08L44_CreateOwnMethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="S10L52_CreateOwnModules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section10_Modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L44_CreateOwnMethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section10_Modules/S10L52_CreateOwnModules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="S08L45_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="S11L53_WriteDatatoFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section11_WorkingWithFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L45_Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L53_WriteDatatoFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="S08L46_Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="S11L54_ReadFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section11_WorkingWithFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L46_Overriding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L54_ReadFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="S08L47_ClassExercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="S11L55_UsingWithAs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section11_WorkingWithFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L47_ClassExercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section11_WorkingWithFiles/S11L55_UsingWithAs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -343,19 +353,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.S08L43_CreateOwnObject" />
-      <item index="1" class="java.lang.String" itemvalue="Python.S08L44_CreateOwnMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Python.S08L45_Inheritance" />
-      <item index="3" class="java.lang.String" itemvalue="Python.S08L46_Overriding" />
-      <item index="4" class="java.lang.String" itemvalue="Python.S08L47_ClassExercise" />
+      <item index="0" class="java.lang.String" itemvalue="Python.S10L51_BuiltinModules" />
+      <item index="1" class="java.lang.String" itemvalue="Python.S10L52_CreateOwnModules" />
+      <item index="2" class="java.lang.String" itemvalue="Python.S11L53_WriteDatatoFile" />
+      <item index="3" class="java.lang.String" itemvalue="Python.S11L54_ReadFile" />
+      <item index="4" class="java.lang.String" itemvalue="Python.S11L55_UsingWithAs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.S08L47_ClassExercise" />
-        <item index="1" class="java.lang.String" itemvalue="Python.S08L46_Overriding" />
-        <item index="2" class="java.lang.String" itemvalue="Python.S08L45_Inheritance" />
-        <item index="3" class="java.lang.String" itemvalue="Python.S08L44_CreateOwnMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Python.S08L43_CreateOwnObject" />
+        <item index="0" class="java.lang.String" itemvalue="Python.S11L55_UsingWithAs" />
+        <item index="1" class="java.lang.String" itemvalue="Python.S11L54_ReadFile" />
+        <item index="2" class="java.lang.String" itemvalue="Python.S11L53_WriteDatatoFile" />
+        <item index="3" class="java.lang.String" itemvalue="Python.S10L52_CreateOwnModules" />
+        <item index="4" class="java.lang.String" itemvalue="Python.S10L51_BuiltinModules" />
       </list>
     </recent_temporary>
   </component>
@@ -385,15 +395,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1296" height="1040" extended-state="7" />
+    <frame x="83" y="-8" width="1291" height="784" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32114467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32242617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.586262" sideWeight="0.5214626" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31746033" sideWeight="0.47853735" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44728434" sideWeight="0.47853735" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -507,14 +517,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/listsdemo.py">
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L21_ListsDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/lists_Methods.py">
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L22_ListsMethods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -528,31 +538,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/listsdemo.py">
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L21_ListsDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_Methods.py">
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L25_DictionaryMethods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_nested.py">
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L24_DictionaryNested.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/listsdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -612,20 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/lists_Methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Section07_Methods-ReusableCode/S07L41_MethodExercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -671,8 +660,140 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Section08_ObjectOrientedProgramming/S08L47_ClassExercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="191">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section09_ExceptionHandling/S09L48_ExceptionHandling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L21_ListsDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/S04L22_ListsMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section04_Lists-Dictionary-Tuple/dictionary_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section09_ExceptionHandling/S09L50_ExceptionExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section09_ExceptionHandling/S09L49_FinallyElse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section10_Modules/S10L52_Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section10_Modules/S10L51_BuiltinModules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#85#96#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section10_Modules/S10L52_CreateOwnModules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#63#94#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulesexternal/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/firstfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/S11L53_WriteDatatoFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/secondfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/S11L54_ReadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/thirdfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section11_WorkingWithFiles/S11L55_UsingWithAs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding />
         </state>
       </provider>
