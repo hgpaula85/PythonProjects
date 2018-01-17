@@ -2,17 +2,30 @@ Tutorial Python
 Instalação e configuração
 
 *** Programas necessários ****************************************************
-	Python
-	PyCharm
-	PIP
-	Selenium
-	ConEmu (Opcional)
-	GIT (Opcional)
+	1) Python
+	2) PyCharm
+	3) PIP (a partir da versão 3.6.4 já vem na instalação do Python)
+	4) Selenium
+	5) GIT
+	6) ConEmu (Opcional)
+	
+*** Instruções ***************************************************************
+	1) Baixar e instalar o Python do site: www.python.org/downloads
+	2) Baixar e instalar o PyCharm CE do site: www.jetbrains.com/pycharm/download
+	3) PIP já vem instalado com o Python
+
+*** Instalar Selenium ********************************************************
+	4) pip install selenium
+
+*** Instalar GIT *************************************************************
+	4) Baixar e instalar o Git https://git-scm.com/download/win
 
 *** Adicionar os diretórios do Python nas variáveis de ambiente **************
-	Adicione ;%PYTHONPATH% ao fim da variável PATH
-	Crie a nova variável PYTHONPATH
-	Adicione a essa nova variável os caminhos seguindo o exemplo abaixo:
-		Diretório instalação principal: C:\Program Files (x86)\Python35-32
-		Lib: C:\Program Files (x86)\Python35-32\Lib
-		Scripts: C:\Program Files (x86)\Python35-32\Scripts
+	1) Crie a nova variável PYTHONPATH
+	2) Adicione os valores abaixo nessa variável:
+		C:\Python (Diretório instalação principal)
+		C:\Python\DLLs (DLLs)
+		C:\Python\Lib (Lib)
+		C:\Python\Scripts (Scripts)		
+	
+	3) Adicione %PYTHONPATH% ao fim da variável PATH
